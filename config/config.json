@@ -1,1 +1,12 @@
-{}
+{
+  "connections": {
+    "176": {
+      "connection_string": "mongodb://192.168.21.176:27018/qdownload",
+      "connection_options": {}
+    },
+    "local": {
+      "connection_string": "mongodb://localhost:27018/test",
+      "connection_options": {}
+    }
+  }
+}
